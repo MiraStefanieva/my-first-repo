@@ -1,5 +1,12 @@
 This is my first repository.
 
+<<<<<<< HEAD
 Update with Tortoise.
 
 Update with GitBash.
+=======
+Update with GitBash.
+
+Update with Tortoise.
+
+>>>>>>> f944d4670f1cb629ef4c5dfd5d25571de127d9d9
